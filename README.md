@@ -4,6 +4,8 @@ EL repositorio vislumbra la entrega de *Historias de Usuario* iniciales,donde se
 ## Pasos para ver las historias de usuario:
 
 **1** Identificar el archivo historias de usuario.xlsx
+--
 **2** Descargar el archivo para observarlo correctamente
+--
 **3** Podra observar las tablas de datos en excel 
 
