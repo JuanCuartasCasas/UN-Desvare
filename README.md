@@ -3,9 +3,14 @@ EL repositorio vislumbra la entrega de *Historias de Usuario* iniciales,donde se
 
 ## Pasos para ver las historias de usuario:
 
-**1** Identificar el archivo historias de usuario.xlsx
+ 
+### **1** Ingresar a "Projects".
 --
-**2** Descargar el archivo para observarlo correctamente
+### **2** Observar las historias de usuario
 --
-**3** Podra observar las tablas de datos en excel 
+### **3** Se podran ver las historias de usuario separadas por issues para su realización
+
+Los projectos en github ofrecen una mayor organización y trabajo en equipo a traves de la clasificación de tasks,seguimiento de procesos y trabajo simultaneo,enfocado en un proyecto 
+
+Autor: Juan Diego Cuartas Casas
 
